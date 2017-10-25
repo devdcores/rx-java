@@ -2,6 +2,10 @@ package com.devd.rxjava;
 
 import java.util.function.BiFunction;
 
+/**
+ * It is regarding how can we assign function to the variables.
+ * And the function is executed only when apply method is called.
+ */
 public class FirstClassCitizenVariableIllustration {
   
   public static void main(String[] args) {
